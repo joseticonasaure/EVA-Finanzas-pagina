@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Finanzas para la vida",
+  "description": "Plataforma de aprendizaje y educación financiera interactiva (VLE Dashboard) con inicio de sesión local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
